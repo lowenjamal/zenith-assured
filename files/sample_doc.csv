@@ -1,0 +1,4 @@
+email,first_name,last_name,address,country,phone_number,date_of_birth
+john@exaple.com,John,Doe,123 Main St,USA,123467890,1990-01-01
+jane@exaple.com,Jane,Smith,456 Elm St,Canada,976543210,1985-05-10
+alice@exaple.com,Alice,Johnson,789 Oak St,UK,248013579,1988-11-15
